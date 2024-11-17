@@ -1,0 +1,4 @@
+{
+    "name": "codespaces-pwa", // 任意の名前
+    "forwardPorts": [5173] // Viteのデフォルトポート。必要に応じて変更
+  }
