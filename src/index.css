@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  }
+}
+
+.rdp {
+  --rdp-cell-size: 40px;
+  --rdp-accent-color: rgb(79 70 229);
+  --rdp-background-color: rgb(243 244 246);
+  margin: 0;
+}
